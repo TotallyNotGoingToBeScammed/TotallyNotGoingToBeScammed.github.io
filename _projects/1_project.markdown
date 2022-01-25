@@ -7,7 +7,17 @@ importance: 1
 category: work
 ---
 
-<pre><code>var foo = "bar";
-var hello = "world";
-console.log(foo);
-console.log(hello);</code></pre>
+
+
+<pre><code>if (!isBlockedLeft) {
+turnLeft()
+} else if (!isBlocked) {
+// NULL - going to move forward
+} else if (!isBlockedRight) {
+turnRight()
+} else {
+// Turning around
+turnRight()
+turnRight()
+}
+moveForward()</code></pre>
