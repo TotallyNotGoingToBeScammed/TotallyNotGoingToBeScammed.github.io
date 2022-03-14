@@ -33,7 +33,7 @@ random projects… <style type="text/css">
 that are coded by an elementary schooler...
 
 
-There are a few special lines 
+this is J.M.Yacht :D
 
 
 **IMPORTANT:**
@@ -42,7 +42,7 @@ There are a few special lines
 all hail https://beautifuljekyll.com that makes building this possible!
 
 
-all hail [r/swift](https://www.reddit.com/r/swift/) for great guidance!
+all hail my buddies at [r/swift](https://www.reddit.com/r/swift/) for help making this and solving my puzzles!
 
 
 solve my projects [here](https://randombrick.me/projects/)!
