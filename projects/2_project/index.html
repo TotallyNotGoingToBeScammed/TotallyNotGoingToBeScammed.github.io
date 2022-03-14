@@ -11,7 +11,7 @@
   ностальгия
 
 
-  | blog
+  | my swift playground stage
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/2_project/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -101,18 +101,14 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -181,36 +177,52 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>things</h1>
-    <h2>...that are sometimes random sometimes not</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">my swift playground stage</h1>
+    <p class="post-description">try to solve this!</p>
+  </header>
+
+  <article>
+    <p>This is the puzzle stage I made. You can copy the swift code to your playground and try to solve it. All written in swift. It took me a while to construct this world that can be solved in 5 - 7 lines :D</p>
+
+<p>Hint : it’s inspired by one of the previous stages!</p>
+
+<p>p.s. My brother cannot solve it in less than 7 lines.</p>
+
+<pre><code>
+let target = Character()
+world.place(Gem(), atColumn: 0, row: 5)
+world.place(Switch(), atColumn: 7, row: 6)
+for i in 1 ... 6 {
+    world.place(Block(), atColumn: i, row: 3)
+}
+for i in 1 ... 6 {
+    world.place(Block(), atColumn: i, row: 3)
+}
+let greenPortal = Portal(color:  colorLiteral(red: -0.24377164244651794, green: 0.7537863850593567, blue: -0.22403845191001892, alpha: 1.0))
+world.place(greenPortal, atStartColumn: 0, startRow: 3, atEndColumn: 2, endRow:7)
+let redPortal = Portal(color:  colorLiteral(red: 1.0929099321365356, green: -0.22076299786567688, blue: -0.09911013394594193, alpha: 1.0))
+world.place(redPortal, atStartColumn: 2, startRow: 1, atEndColumn: 5, endRow:5)
+let bluePortal = Portal(color:  colorLiteral(red: 0.0028873691335320473, green: 0.37862303853034973, blue: 0.992986261844635, alpha: 1.0))
+world.place(bluePortal, atStartColumn: 6, startRow: 1, atEndColumn: 2, endRow: 4)
+world.place(Platform(), atColumn: 3, row: 4)
+world.place(Block(), atColumn:4, row:1)
+world.place(Block(), atColumn:4, row:2)
+world.place(Platform(), atColumn: 4, row: 1)
+world.place(target, atColumn: 3, row: 2)
+</code></pre>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/stage.png" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    My stage. Can you try to solve it?
+</div>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2022/attack/">DDoS Attacks</a></h3>
-        <p class="post-meta">January 19, 2022</p>
-        <p>Some random complaints on reCaptcha.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/youtubers/">Youtubers</a></h3>
-        <p class="post-meta">December 11, 2021</p>
-        <p>Random Thoughts on Youtubers.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/immune/">Immune</a></h3>
-        <p class="post-meta">November 23, 2021</p>
-        <p>A Journey into the Mysterious System That Keeps You Alive.</p>
-      </li>
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
