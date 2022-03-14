@@ -33,13 +33,16 @@ random projects… <style type="text/css">
 that are coded by an elementary schooler...
 
 
-There are a few special thanks...
+There are a few special lines 
+
+
+**IMPORTANT:**
 
 
 all hail https://beautifuljekyll.com that makes building this possible!
 
 
-all hail r/swift for great guidance!
+all hail [r/swift](https://www.reddit.com/r/swift/) for great guidance!
 
 
 solve my projects [here](https://randombrick.me/projects/)!
