@@ -13,7 +13,7 @@ I'm currently going through this: https://realpython.com/python-gui-tkinter/
 
 Does anyone want to study with me? If you come here from r/swift you know my email!
 
-I made this game: random sized and random colored balls bouncing around if fired. Very simple you can copy the code and run it on your computer by running
+I made this mini-game: random sized and random colored balls bouncing around if fired (look at the image). Very simple you can copy the code and run it on your computer by running
 
 <pre><code>
 python ball.py
