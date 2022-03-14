@@ -21,7 +21,7 @@ Hello.
 This is a place for…
 
 
-things… <style type="text/css">
+random projects… <style type="text/css">
  span.bold-white {
     color: white;
     font-weight: bold;
@@ -30,34 +30,16 @@ things… <style type="text/css">
 <span class="bold-white">MADE YOU LOOK</span>
 
 
-that are random.
+that are coded by an elementary schooler...
 
 
-There are a few rules.
+There are a few special thanks...
 
 
-rule number one is..
+all hail https://beautifuljekyll.com that makes building this possible!
 
 
-<style type="text/css">
- span.bold-red {
-    color: red;
-    font-weight: bold;
-}
-</style>
-<span class="bold-red">THERE ARE NO RULES</span>
+all hail r/swift for great guidance!
 
 
-rule number two is.. 
-
-
-listen to number one
-
-
-rule number three is..
-
-
-REPEAT.
-
-
-AND GO TO NAVIGATION BAR.
+solve my projects [here](https://randombrick.me/projects/)!
