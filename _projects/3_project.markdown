@@ -2,7 +2,7 @@
 layout: page
 title: Some Python Tkinter Practice
 description: making mini-games with tinkler
-img: /assets/img/12.jpg
+img: /assets/img/11.jpg
 importance: 1
 category: work
 ---
