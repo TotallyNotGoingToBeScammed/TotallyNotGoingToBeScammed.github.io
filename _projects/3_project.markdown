@@ -7,7 +7,15 @@ importance: 1
 category: work
 ---
 
-Ball of random size and random color bouncing around if fired. tkinter practice dont judge lol
+Sooo I am recently self-studying python. It's hard D: But it can do a lot more things than swiftplayground!
+
+I'm currently going through this: https://realpython.com/python-gui-tkinter/ 
+
+Does anyone want to study with me? If you come here from r/swift you know my email!
+
+I made this game: random sized and random colored balls bouncing around if fired. Very simple you can copy the code and run it on your computer.
+
+tkinter practice dont judge lol
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
