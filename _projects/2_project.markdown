@@ -7,8 +7,11 @@ importance: 2
 category: work
 ---
 
-This is one of the later stages for SwiftPlayground... So I made one! Can you try to solve it D:? My brother cannot.
+This is the puzzle stage I made. You can copy the swift code to your playground and try to solve it. All written in swift. It took me a while to construct this world that can be solved in 5 - 7 lines :D
 
+Hint : it's inspired by one of the previous stages!
+
+p.s. My brother cannot solve it in less than 7 lines.
 
 <pre><code>
 let target = Character()
