@@ -39,10 +39,10 @@ Hello again.
 this is J.M.Yacht :D
 
 
-My most updated puzzle is made [here](https://totallynotgoingtobescammed.github.io/projects/2_project/).
+My most updated coding puzzle is [here](https://totallynotgoingtobescammed.github.io/projects/2_project/).
 
 
-It will be updated once a few weeks when I think of new ideas.
+It will be updated once a few weeks when I think of new worlds.
 
 
 **IMPORTANT:**
