@@ -33,7 +33,16 @@ random projects… <style type="text/css">
 that are coded by an elementary schooler...
 
 
+Hello again.
+
+
 this is J.M.Yacht :D
+
+
+My most updated puzzle is made [here](https://totallynotgoingtobescammed.github.io/projects/2_project/).
+
+
+It will be updated once a few weeks when I think of new ideas.
 
 
 **IMPORTANT:**
@@ -45,4 +54,4 @@ all hail https://beautifuljekyll.com that makes building this possible!
 all hail my buddies at [r/swift](https://www.reddit.com/r/swift/) for help making this and solving my puzzles!
 
 
-solve my projects [here](https://randombrick.me/projects/)!
+all hail my projects [here](https://randombrick.me/projects/)!
